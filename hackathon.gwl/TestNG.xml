@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="pCloudy Hackathon" parallel="tests" thread-count="1">
+	<listeners>
+		<listener class-name="pCloudy.hackathon.gwl.utils.Listener" />
+	</listeners>
+
+	<test name="Verify Scenario 1">
+		<parameter name="deviceIndex" value="0" />
+		<classes>
+			<class name="pCloudy.hackathon.gwl.Hacktest">
+				<methods>
+					<include name="Scenario4" />
+				</methods>
+			</class>
+		</classes>		
+	</test>
+	
+	
+</suite>

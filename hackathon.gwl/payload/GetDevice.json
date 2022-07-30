@@ -1,0 +1,4 @@
+{
+  "baseurl" : "https://device.pcloudy.com/api/devices"
+  "payload" : {"duration":10, "platform":"android", "available_now":"true"}
+    }

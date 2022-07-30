@@ -1,0 +1,17 @@
+{
+   "capabilities":{
+      "pCloudy_ApplicationName":"PCloudyHackathon.apk",
+      "appPackage":"com.pcloudyhackathon",
+      "pCloudy_Username":"karthickrajan.k@galaxyweblinks.in",
+      "pCloudy_ApiKey":"xh7pzsspr9gjcqscfp7fdtbp",
+      "pCloudy_DurationInMinutes":"20",
+      "newCommandTimeout":"600",
+      "launchTimeout":"90000",
+      "automationName":"uiautomator2",
+      "pCloudy_WildNet":"false",
+      "pCloudy_EnableVideo":"true",
+      "pCloudy_EnablePerformanceData":"true",
+      "pCloudy_EnableDeviceLogs":"true",
+      "platformName":"Android"
+   }
+}
